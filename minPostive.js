@@ -36,4 +36,5 @@ function solutionB(A) {
    if(found) return num;
    
     
+   
 }
